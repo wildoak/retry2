@@ -71,7 +71,7 @@ test('should not fail before timeout', async t => {
         }
 
         return 'success';
-    }, {timeout: 50});
+    }, {timeout: 100});
     
     t.is(i, 2);
     t.is(result, 'success');
