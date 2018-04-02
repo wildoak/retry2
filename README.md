@@ -1,5 +1,21 @@
 # retry2
 
+
+
+![npm](https://img.shields.io/npm/v/retry2.svg)
+![node](https://img.shields.io/node/v/retry2.svg)
+
+![Travis branch](https://img.shields.io/travis/wildoak/retry2/master.svg)
+![Coveralls github](https://img.shields.io/coveralls/github/wildoak/retry2.svg)
+
+![license](https://img.shields.io/github/license/wildoak/retry2.svg)
+![GitHub tag](https://img.shields.io/github/tag/wildoak/retry2.svg)
+![GitHub issues](https://img.shields.io/github/issues/wildoak/retry2.svg)
+![GitHub last commit](https://img.shields.io/github/last-commit/wildoak/retry2.svg)
+![GitHub top language](https://img.shields.io/github/languages/top/wildoak/retry2.svg)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/wildoak/retry2.svg)
+
+
 - [npm](https://www.npmjs.com/package/retry2)
 - [GitHub](https://github.com/wildoak/retry2)
 
