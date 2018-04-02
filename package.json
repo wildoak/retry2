@@ -1,8 +1,8 @@
 {
   "name": "retry2",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Like `retry`, but more easy to use.",
-  "main": "index.js",
+  "main": "lib/index.js",
   "scripts": {
     "build": "babel -d ./lib src",
     "build:debug": "babel -s -d ./lib src",
